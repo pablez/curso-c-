@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gerar\\OneDrive\\Desktop\\TRABAJO\\Aprender a Ense\u00F1ar\\Clases de Programacion\\Curso C#\\PRactica_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9D1C3D-5028-4216-A72F-333038A8F09E}|PRactica_2\\PRactica_2.csproj|c:\\users\\gerar\\onedrive\\desktop\\trabajo\\aprender a ense\u00F1ar\\clases de programacion\\curso c#\\practica_2\\practica_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9D1C3D-5028-4216-A72F-333038A8F09E}|PRactica_2\\PRactica_2.csproj|solutionrelative:practica_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gerar\\OneDrive\\Desktop\\TRABAJO\\Aprender a Ense\u00F1ar\\Clases de Programacion\\Curso C#\\PRactica_2\\PRactica_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRactica_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "PRactica_2\\Program.cs",
               "ToolTip": "C:\\Users\\gerar\\OneDrive\\Desktop\\TRABAJO\\Aprender a Ense\u00F1ar\\Clases de Programacion\\Curso C#\\PRactica_2\\PRactica_2\\Program.cs",
               "RelativeToolTip": "PRactica_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T00:00:22.787Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
