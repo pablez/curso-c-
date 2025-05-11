@@ -1,0 +1,14 @@
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\bin\Debug\net8.0\PRactica_2.exe
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\bin\Debug\net8.0\PRactica_2.deps.json
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\bin\Debug\net8.0\PRactica_2.runtimeconfig.json
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\bin\Debug\net8.0\PRactica_2.dll
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\bin\Debug\net8.0\PRactica_2.pdb
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.dll
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\refint\PRactica_2.dll
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.pdb
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\PRactica_2.genruntimeconfig.cache
+C:\Users\gerar\OneDrive\Desktop\TRABAJO\Aprender a Enseñar\Clases de Programacion\Curso C#\PRactica_2\PRactica_2\obj\Debug\net8.0\ref\PRactica_2.dll
